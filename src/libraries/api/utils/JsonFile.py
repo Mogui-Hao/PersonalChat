@@ -1,6 +1,7 @@
 
 from .File import File
 import json
+import os
 
 class JsonFile(File):
     def __init__(self, Path):
@@ -8,6 +9,7 @@ class JsonFile(File):
         self.Json: dict = json.loads(self.file.read())
     
     def load(self):
+        self.file.seek(0)
         self.Json = json.loads(self.file.read())
         return self.Json
 
@@ -16,5 +18,5 @@ class JsonFile(File):
         self.file.write(json.dumps(self.Json, indent=4))
         return self.Json
 
-    def roload(self):
+    def reload(self):
         return self.load()

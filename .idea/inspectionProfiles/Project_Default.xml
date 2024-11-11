@@ -1,0 +1,127 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnusedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="114" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="ul" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="regex" />
+            <item index="1" class="java.lang.String" itemvalue="cpm_kernels" />
+            <item index="2" class="java.lang.String" itemvalue="accelerate" />
+            <item index="3" class="java.lang.String" itemvalue="facexlib" />
+            <item index="4" class="java.lang.String" itemvalue="open-clip-torch" />
+            <item index="5" class="java.lang.String" itemvalue="pytorch_lightning" />
+            <item index="6" class="java.lang.String" itemvalue="clean-fid" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E262" />
+          <option value="W292" />
+          <option value="E305" />
+          <option value="E111" />
+          <option value="E265" />
+          <option value="E302" />
+          <option value="E303" />
+          <option value="E722" />
+          <option value="E225" />
+          <option value="E117" />
+          <option value="E127" />
+          <option value="E301" />
+          <option value="E501" />
+          <option value="E701" />
+          <option value="E306" />
+          <option value="E124" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="next" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.screen" />
+          <option value="main.Rect" />
+          <option value="data.Plact.screen" />
+          <option value="读取zip.main.itertools" />
+          <option value="main.GL_FOG" />
+          <option value="main.GL_FOG_COLOR" />
+          <option value="main.glFogfv" />
+          <option value="main.GL_FOG_HINT" />
+          <option value="main.GL_FOG_END" />
+          <option value="main.glFogf" />
+          <option value="main.GL_FOG_START" />
+          <option value="main.GL_FOG_MODE" />
+          <option value="main.glFogi" />
+          <option value="main.glColor3d" />
+          <option value="main.glTranslatef" />
+          <option value="main.glRotatef" />
+          <option value="main.glLoadIdentity" />
+          <option value="main.glMatrixMode" />
+          <option value="main.GL_MODELVIEW" />
+          <option value="main.gluPerspective" />
+          <option value="main.*" />
+          <option value="石头剪刀布.AI" />
+          <option value="库.main.Chat" />
+          <option value="tkinter" />
+          <option value="float.*" />
+          <option value="convenient.Vec3.*" />
+          <option value="_decimal.Decimal.*" />
+          <option value="test1.main.screen" />
+          <option value="test1.main.Rect" />
+          <option value="test1.main.keys" />
+          <option value="下落.main.*" />
+          <option value="str.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TryExceptPassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>

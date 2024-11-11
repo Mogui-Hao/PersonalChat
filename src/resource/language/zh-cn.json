@@ -10,5 +10,10 @@
             "language": "语言",
             "download": "下载"
         }
+    },
+
+    "author": {
+        "name": "MoGui_Hao",
+        "url": ""
     }
 }
