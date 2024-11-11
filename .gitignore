@@ -2,6 +2,7 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
+.idea/
 #Cache folder
 .alcache/
 #Symbols folder
@@ -10,7 +11,7 @@
 .snapshots/
 #Testing Output folder
 .output/
-__pycache__/
+**/__pycache__/
 #Extension App-file
 *.app
 #Rapid Application Development File
