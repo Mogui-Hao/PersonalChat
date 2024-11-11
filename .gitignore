@@ -10,6 +10,7 @@
 .snapshots/
 #Testing Output folder
 .output/
+__pycache__/
 #Extension App-file
 *.app
 #Rapid Application Development File
